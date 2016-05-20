@@ -1,6 +1,6 @@
 # STM32 application builder
 #
-# Author: Marcelo Barros de Almeida <marcelobarrosalmeida@gmail.com>
+# Author: Marcelo Barros de Almeida <marcelobarrosalmeida@gmail.com> fabriciooo
 # License: BSD
 # 
 
@@ -16,3 +16,4 @@ syscalls_stm32f4xx.c \
 stm32f4xx_hal_msp.c
 
 CPP_SRCS = 
+#bgfsdka
